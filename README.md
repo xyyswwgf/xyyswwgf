@@ -20,7 +20,7 @@
 | --- | --- | --- |
 | [Data-Intelligence-Agent](https://github.com/xyyswwgf/Data-Intelligence-Agent) | 自然语言 -> SQL -> 数据可视化，支持 CSV 导入、智能查询、复杂筛选和图表展示 | Python |
 | [chayun-tea-culture](https://github.com/xyyswwgf/chayun-tea-culture) | 茶文化内容与 Web 应用探索，把传统内容整理成更适合线上展示和交互的形式 | JavaScript |
-| Case Report Agent | 案例报告推送 Agent：信息采集、AI 总结、Markdown 报告、钉钉/飞书推送，正在整理为完整开源项目 | JavaScript / Node.js |
+| [Case Report Agent](https://github.com/xyyswwgf/case-report-agent) | 案例报告推送 Agent：信息采集、AI 总结、Markdown 报告、钉钉/飞书推送，已整理为完整开源项目 | JavaScript / Node.js |
 | Exchange Automation Site | 汇率类自动化网站方向：定时抓取汇率、生成看板、支持轻量查询和自动更新 | Web / Automation |
 | wxcli-local | 本地优先的微信数据库查询 CLI，用于合法数据库文件的会话、历史记录、关键词搜索和导出 | Node.js / SQLite |
 
